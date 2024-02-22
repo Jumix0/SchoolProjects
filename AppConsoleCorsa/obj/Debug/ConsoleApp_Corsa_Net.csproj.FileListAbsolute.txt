@@ -1,0 +1,16 @@
+Z:\TecnProg\2023-10-26\Chabaniuk_Andrii_V2\bin\Debug\ConsoleApp_Corsa_Net.exe.config
+Z:\TecnProg\2023-10-26\Chabaniuk_Andrii_V2\bin\Debug\ConsoleApp_Corsa_Net.exe
+Z:\TecnProg\2023-10-26\Chabaniuk_Andrii_V2\bin\Debug\ConsoleApp_Corsa_Net.pdb
+Z:\TecnProg\2023-10-26\Chabaniuk_Andrii_V2\obj\Debug\ConsoleApp_Corsa_Net.csproj.AssemblyReference.cache
+Z:\TecnProg\2023-10-26\Chabaniuk_Andrii_V2\obj\Debug\ConsoleApp_Corsa_Net.csproj.SuggestedBindingRedirects.cache
+Z:\TecnProg\2023-10-26\Chabaniuk_Andrii_V2\obj\Debug\ConsoleApp_Corsa_Net.csproj.CoreCompileInputs.cache
+Z:\TecnProg\2023-10-26\Chabaniuk_Andrii_V2\obj\Debug\ConsoleApp_Corsa_Net.exe
+Z:\TecnProg\2023-10-26\Chabaniuk_Andrii_V2\obj\Debug\ConsoleApp_Corsa_Net.pdb
+Z:\TecnProg\2023-11-23\Chabaniuk_Andrii\bin\Debug\ConsoleApp_Corsa_Net.exe.config
+Z:\TecnProg\2023-11-23\Chabaniuk_Andrii\bin\Debug\ConsoleApp_Corsa_Net.exe
+Z:\TecnProg\2023-11-23\Chabaniuk_Andrii\bin\Debug\ConsoleApp_Corsa_Net.pdb
+Z:\TecnProg\2023-11-23\Chabaniuk_Andrii\obj\Debug\ConsoleApp_Corsa_Net.csproj.AssemblyReference.cache
+Z:\TecnProg\2023-11-23\Chabaniuk_Andrii\obj\Debug\ConsoleApp_Corsa_Net.csproj.SuggestedBindingRedirects.cache
+Z:\TecnProg\2023-11-23\Chabaniuk_Andrii\obj\Debug\ConsoleApp_Corsa_Net.csproj.CoreCompileInputs.cache
+Z:\TecnProg\2023-11-23\Chabaniuk_Andrii\obj\Debug\ConsoleApp_Corsa_Net.exe
+Z:\TecnProg\2023-11-23\Chabaniuk_Andrii\obj\Debug\ConsoleApp_Corsa_Net.pdb
