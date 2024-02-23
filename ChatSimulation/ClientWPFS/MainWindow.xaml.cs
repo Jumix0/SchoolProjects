@@ -8,8 +8,8 @@ using System; // using neccessari
 
 namespace ClientWPFS
 {
-    public partial class MainWindow : Window // CHABANIUK ANDRII, 4H, Simulazione Client, 2024-02-15
-    {                                        // Simulazione di un client che comunica con il server.
+    public partial class MainWindow : Window 
+    {                                        
         private Socket clientSocket;
         private string nickname;
         private Thread receiveMessageThread;  // Thread per fare in modo che il programma non si ferma e continua ad ascoltare i messagi.
