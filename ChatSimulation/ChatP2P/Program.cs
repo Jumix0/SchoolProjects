@@ -5,8 +5,8 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 
-class Server // CHABANIUK ANDRII, 4H, Simulazione Server, 2024-02-15
-             // Simulazione di un server che comunica con i Client.
+class Server 
+             
 {
     private static Socket listener;
     private static List<ClientHandler> clients = new List<ClientHandler>();     
