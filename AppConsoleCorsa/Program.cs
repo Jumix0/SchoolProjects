@@ -404,7 +404,7 @@ namespace ConsoleApp_Corsa_Net
         
         static void Main(string[] args)
         {
-            Console.Title = "Chabaniuk Andrii || 4H || 28.09.2023 || Corsa_Amici_Versione2";
+            
             Console.WriteLine("Simulazione della corsa di tre amici");
             Write("");
             CursorVisible = false; // Elimina il cursore
